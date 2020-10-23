@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/264295__foolboymedia__sky-loop.wav-c18205fb9e34ce15617641a113981762.sample"
+
+[deps]
+
+source_file="res://dino_game/Sounds/264295__foolboymedia__sky-loop.wav"
+dest_files=[ "res://.import/264295__foolboymedia__sky-loop.wav-c18205fb9e34ce15617641a113981762.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

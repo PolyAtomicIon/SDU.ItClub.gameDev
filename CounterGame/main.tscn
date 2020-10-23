@@ -1,0 +1,19 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Panel" type="Panel" parent="."]
+margin_right = 1026.0
+margin_bottom = 604.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextureButton" type="TextureButton" parent="Panel"]
+margin_left = 434.427
+margin_top = 284.559
+margin_right = 474.427
+margin_bottom = 324.559
+__meta__ = {
+"_edit_use_anchors_": false
+}

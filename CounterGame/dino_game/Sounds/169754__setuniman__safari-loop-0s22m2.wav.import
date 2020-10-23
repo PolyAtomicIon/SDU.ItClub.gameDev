@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/169754__setuniman__safari-loop-0s22m2.wav-699114c7ae38322987d28054917bb223.sample"
+
+[deps]
+
+source_file="res://dino_game/Sounds/169754__setuniman__safari-loop-0s22m2.wav"
+dest_files=[ "res://.import/169754__setuniman__safari-loop-0s22m2.wav-699114c7ae38322987d28054917bb223.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

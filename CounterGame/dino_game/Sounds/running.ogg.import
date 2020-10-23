@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/running.ogg-1d19d24e0c0310003c5d8cbb442f0164.oggstr"
+
+[deps]
+
+source_file="res://dino_game/Sounds/running.ogg"
+dest_files=[ "res://.import/running.ogg-1d19d24e0c0310003c5d8cbb442f0164.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

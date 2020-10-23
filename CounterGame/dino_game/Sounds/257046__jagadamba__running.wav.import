@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/257046__jagadamba__running.wav-ebd9d945830b0f831e81e899ffc98f5e.sample"
+
+[deps]
+
+source_file="res://dino_game/Sounds/257046__jagadamba__running.wav"
+dest_files=[ "res://.import/257046__jagadamba__running.wav-ebd9d945830b0f831e81e899ffc98f5e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
